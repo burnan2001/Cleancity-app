@@ -1,0 +1,21 @@
+{
+  "name": "stackblitz-nativescript-react",
+  "main": "src/app.ts",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-nativescript": "^5.0.0",
+    "react-nativescript-navigation": "^5.0.0"
+  },
+  "devDependencies": {
+    "@nativescript/preview-cli": "^1.0.12",
+    "@nativescript/stackblitz": "^0.0.8",
+    "@nativescript/tailwind": "2.1.0-rc.2",
+    "@nativescript/types": "~8.6.0",
+    "@nativescript/webpack": "vision",
+    "@types/react": "npm:types-react-without-jsx-intrinsics@^18.0.17",
+    "tailwindcss": "~3.4.0",
+    "typescript": "~5.3.0"
+  }
+}
